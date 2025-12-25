@@ -32,6 +32,8 @@ Art Institute of California - Orange County,Argosy University
 AUT University,Auckland University of Technology
 Audi AG,Audi
 Univ. of Applied Sciences Augsburg,Augsburg Technical University of Applied Sciences
+ÖAW,Austrian Academy of Sciences
+Österreichische Akademie der Wissenschaften,Austrian Academy of Sciences
 AIT,Austrian Institute Of Technology
 Austrian Institute Of Technology,Austrian Institute Of Technology
 Austrian Institute Of Technology,Austrian Institute of Technology
@@ -92,6 +94,7 @@ CMU,Carnegie Mellon University
 CMU Madeira,Carnegie Mellon University
 Carnegie Mellon,Carnegie Mellon University
 Carnegie Mellon HCII,Carnegie Mellon University
+Carnegie Mellon University Human-Computer Interaction Institute,Carnegie Mellon University
 Carnegie Mellon University Madeira,Carnegie Mellon University
 "Computational Design Lab, Carnegie Mellon University",Carnegie Mellon University
 Curnegie Mellon University,Carnegie Mellon University
@@ -101,6 +104,8 @@ Human-Computer Interaction Institute Carnegie Mellon University,Carnegie Mellon 
 Carnegie Mellon University USA,Carnegie Mellon UniversityU of Michiganmichi
 Center for Advanced Internet Studies (CAIS) gGmbH,Center for Advanced Internet Studies
 CRS4,"Center for Advanced Studies, Research and Development in Sardinia"
+CNRS,Centre national de la recherche scientifique
+French National Centre for Scientific Research,Centre national de la recherche scientifique
 "Centria Research and Development, Ylivieska",Centria University of Applied Sciences
 Centrum Wiskunde & Informatica (CWI,Centrum Wiskunde & Informatica
 Centrum Wiskunde & Informatica (CWI),Centrum Wiskunde & Informatica
@@ -123,6 +128,7 @@ TU Clausthal,Clausthal University of Technology
 Columbia,Columbia University
 CSIRO,Commonwealth Scientific and Industrial Research Organisation
 CSIRO ICT Centre,Commonwealth Scientific and Industrial Research Organisation
+CSIRO’s Data61,Commonwealth Scientific and Industrial Research Organisation
 Department of Design and Computation Arts Faculty of Fine Arts Concordia University,Concordia University
 CNR,Consiglio Nazionale delle Ricerche
 "Cork Institute of Technology, Cork",Cork Institute of Technology
@@ -220,6 +226,7 @@ UFSCar – Federal University of São Carlos,Federal University of São Carlos
 "Finnish Institute of Occupational Health, Helsinki",Finnish Institute of Occupational Health
 "Flensburg University of Applied Sciences, Flensburg",Flensburg University of Applied Sciences
 "Folkwang University, Essen",Folkwang University of the Arts
+Fondazione Bruno Kessler (FBK),Fondazione Bruno Kessler
 "Fondazione, Trento",Fondazione Bruno Kessler
 "i3, Fondazione Bruno Kessler",Fondazione Bruno Kessler
 "Division R&D France Télécom, Lannion",France Télécom
@@ -303,6 +310,8 @@ Hamburg University of Applied Sciences,HAW Hamburg
 "Hamburg University of Applied Science, Hamburg",Hamburg University of Applied Science
 Han-Yang University,Hanyang University
 Harvard,Harvard University
+Harvard Graduate School of Design,Harvard University
+Harvard SEAS,Harvard University
 Harvard University SEAS,Harvard University
 Expertise Centre for Digital Media Hasselt University - tUL - Flanders Make,Hasselt University
 "Expertise Centre for Digital Media, Hasselt University -- tUL -- iMinds",Hasselt University
@@ -434,6 +443,7 @@ ISI Foundation,Institute for Scientific Interchange
 Institute for Scientific Interchange (ISI Foundation),Institute for Scientific Interchange
 "A M As Institute of Software, Chinese Academy of Sciences (ISCAS)","Institute of Software, Chinese Academy of Sciences"
 "Chinese Academy of Sciences, Institute of Software","Institute of Software, Chinese Academy of Sciences"
+"Institute of Computing Technology, Chinese Academy of Sciences","Institute of Software, Chinese Academy of Sciences"
 Institute of Software Chinese Academy of Sciences,"Institute of Software, Chinese Academy of Sciences"
 "Institute of software, Chinese Academy of Sciences","Institute of Software, Chinese Academy of Sciences"
 IST/INESC,Instituto de Engenharia de Sistemas e Computadores
@@ -451,6 +461,7 @@ International Institute of Information technology,"International Institute of In
 International University VNU-HCM,International University - VNU-HCM
 Iowa State University of Science and Technology,Iowa State University
 C.N.R. - ISTI,Istituto di Scienza e Tecnologie dell'Informazione
+CNR-ISTI,Istituto di Scienza e Tecnologie dell'Informazione
 ISTI CNR,Istituto di Scienza e Tecnologie dell'Informazione
 ISTI-CNR,Istituto di Scienza e Tecnologie dell'Informazione
 ISTI-CNR Pisa,Istituto di Scienza e Tecnologie dell'Informazione
@@ -622,6 +633,7 @@ New University of Lisbon,NOVA University Lisbon
 Universidade NOVA de Lisboa,NOVA University Lisbon
 NTT,NTT Communication Science Laboratories
 NTT Communication Science Labs,NTT Communication Science Laboratories
+"NTT, Inc.",NTT Communication Science Laboratories
 Nanyang Technoligical University,Nanyang Technological University
 Nanyang Technological University - NTU Singapore,Nanyang Technological University
 Nanyang Technological University School of Communication & Information,Nanyang Technological University
@@ -695,6 +707,7 @@ Nokia research center,Nokia
 "Nordea Bank Finland Plc, Nordea",Nordea
 Nortel Networks,Nortel
 "Dept. Computer Science, NC State University",North Carolina State University
+"NC State University, Oklahoma",North Carolina State University
 North Carolina State,North Carolina State University
 "North South University, Dhaka",North South University
 Northeastern,Northeastern University
@@ -713,6 +726,7 @@ OFFIS – Institute for IT,OFFIS - Institute for IT
 OFFIS – Institute for Information Technology,OFFIS - Institute for IT
 Department of Computer Science Old Dominion University,Old Dominion University
 University of Ontario Institute of Technology,Ontario Tech University
+University of Ontario Institute of Technology (UOIT),Ontario Tech University
 Universitat Oberta de Catalunya,Open University of Catalonia
 OGI/Oregon Health & Science University,Oregon Health & Science University
 "Osaka Prefecture University, Osaka",Osaka Prefecture University
@@ -982,6 +996,7 @@ University of Cork,University College Cork
 University College Dublin,University College Dublin
 "University College, Dublin",University College Dublin
 UCL,University College London
+"UCLIC & GDI Hub, University College London",University College London
 USL,University College London
 "University College London, University of London",University College London
 University College of London,University College London
@@ -1202,9 +1217,12 @@ The University of Michigan,University of Michigan
 U of Michigan,University of Michigan
 Univ. of Michigan,University of Michigan
 University of Michigan - Ann Arbor,University of Michigan
+University of Michigan - Dearborn,University of Michigan
+University of Michigan - Flint,University of Michigan
 University of Michigan Ann Arbor,University of Michigan
 University of Michigan School of Information,University of Michigan
-University of Michigan - Dearborn,"University of Michigan, Dearborn"
+University of Michigan – Flint,University of Michigan
+"University of Michigan, Dearborn",University of Michigan
 "Dept. of Computer Science, Università degli Studi di Milano",University of Milan
 DISCO -Universita' di Milano-Bicocca,University of Milan-Bicocca
 University of Milano - Bicocca,University of Milan-Bicocca
@@ -1227,9 +1245,11 @@ University of Nevada Reno,"University of Nevada, Reno"
 "University of Nevada, Reno","University of Nevada, Reno"
 "University of New, Hampshire",University of New Hampshire
 UNSW,University of New South Wales
+UNSW Sydney,University of New South Wales
 University of New South Wales,University of New South Wales
 The University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill
 UNC Chapel Hill,University of North Carolina at Chapel Hill
+UNC Chapel Hill School of Information and Library Science (UNC SILS),University of North Carolina at Chapel Hill
 University of North Carolina—Chapel Hill,University of North Carolina at Chapel Hill
 UNC Charlotte,University of North Carolina at Charlotte
 University of Carolina Charlotte,University of North Carolina at Charlotte
@@ -1242,7 +1262,6 @@ Nottingham University,University of Nottingham
 The University of Nottingham,University of Nottingham
 "The University of Nottingham, Malaysia",University of Nottingham
 "University of Oldenburg, Oldenburg",University of Oldenburg
-University of Ontario Institute of Technology (UOIT),University of Ontario Institute of Technology
 "University of Oregon, Eugene",University of Oregon
 "Center for Ubiquitous Computing, University of Oulu",University of Oulu
 "Faculty of ITEE, University of Oulu",University of Oulu
@@ -1332,6 +1351,7 @@ U of Toronto,University of Toronto
 University of Toronto at Mississauga,University of Toronto Mississauga
 University Toulouse,University of Toulouse
 University of Toulouse - Tarbes,University of Toulouse
+"University of Toulouse 3, Toulouse",University of Toulouse
 University of Toronto,University of Trento
 "University of Trento, Rovereto",University of Trento
 Centre for Digital Video Processing,University of Tromsø
@@ -1370,6 +1390,7 @@ University Wisconsin-Madison,University of Wisconsin-Madison
 University of Wisconsin,University of Wisconsin-Madison
 University of Wisconsin - Madison,University of Wisconsin-Madison
 University of Wisconsin Madison,University of Wisconsin-Madison
+"University of Wisconsin, Madison",University of Wisconsin-Madison
 University of Wisconsin – Milwaukee,University of Wisconsin-Milwaukee
 University of Wisconsin–Milwaukee,University of Wisconsin-Milwaukee
 Bayerische Julius-Maximilians-Universität Würzburg,University of Würzburg

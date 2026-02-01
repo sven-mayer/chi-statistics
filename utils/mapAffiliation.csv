@@ -149,6 +149,7 @@ CSIRO,Commonwealth Scientific and Industrial Research Organisation
 CSIRO ICT Centre,Commonwealth Scientific and Industrial Research Organisation
 CSIRO’s Data61,Commonwealth Scientific and Industrial Research Organisation
 Commonwealth Scientific and Industrial Research Organisation (CSIRO),Commonwealth Scientific and Industrial Research Organisation
+Computing Research Association (CRA),Computing Research Association
 Department of Design and Computation Arts Faculty of Fine Arts Concordia University,Concordia University
 CNR,Consiglio Nazionale delle Ricerche
 "Cork Institute of Technology, Cork",Cork Institute of Technology
@@ -160,6 +161,7 @@ Daegu Gyeongbuk Institute of Science and Technology (DGIST),Daegu Gyeongbuk Inst
 "Dalhousie University, Halifax",Dalhousie University
 Darmouth College,Dartmouth College
 Dartmouth University,Dartmouth College
+Thayer School of Engineering at Dartmouth,Dartmouth College
 "AI on the Ground, Data & Society Research Institute",Data & Society Research Institute
 "De La Salle University, Manila",De La Salle University
 DePaul,DePaul University
@@ -239,6 +241,7 @@ Facebook Reality Labs Research,Facebook
 Facebook Research,Facebook
 Faceboook,Facebook
 Fachhochschule Dresden (FHD),Fachhochschule Dresden – University of Applied Sciences
+Falmouth University Games Academy,Falmouth University
 Universidade Federal Rural de Pernambuco – UFRPE (Recife- Brazil),Federal Rural University of Pernambuco
 Federal University of Pará,Federal University of Para
 Universidade Federal do Pará,Federal University of Para
@@ -539,6 +542,7 @@ Karlsruhe Insitute of Technology (KIT),Karlsruhe Institute of Technology
 Karlsruhe Institute of Technology (KIT),Karlsruhe Institute of Technology
 Karlsruher Institut für Technologie,Karlsruhe Institute of Technology
 Universität Karlsruhe,Karlsruhe Institute of Technology
+Keio Media Design (KMD),Keio University
 "Keio University, Yokohama",Keio University
 "CDSPR, King's College London",King's College London
 "DSPR, King's College London",King's College London
@@ -617,6 +621,7 @@ Massachusetts Institute of Technology (MIT),Massachusetts Institute of Technolog
 Mobile Experience Laboratory @ Massachusetts Institute of Technology,Massachusetts Institute of Technology
 Max Planck Institute for Informatics,Max Planck Institute for Informatics
 "Max Planck Institute for Informatics, Germany",Max Planck Institute for Informatics
+Max-Planck Institut Für Informatik,Max Planck Institute for Informatics
 "Max-Planck-Institut fuer Informatik, Saarbrücken",Max Planck Institute for Informatics
 Max Planck Institute for Security and Privacy (MPI-SP),Max Planck Institute for Security and Privacy
 Max-Planck Institute for Security and Privacy,Max Planck Institute for Security and Privacy
@@ -630,6 +635,7 @@ META,Meta
 Meta Reality Labs,Meta
 Meta Reality Labs Research,Meta
 Reality Labs Research,Meta
+Reality Labs Research at Meta,Meta
 "Reality Labs Research, Meta",Meta
 Helsinki Metropolia University,Metropolia University of Applied Sciences
 "Helsinki Metropolia University, Vanha Maantie",Metropolia University of Applied Sciences
@@ -662,6 +668,7 @@ Mobile Life,Mobile Life Center
 Mobile Life Centre,Mobile Life Center
 Mobile Life VinnExcellence Centre,Mobile Life Center
 MobileLife Center,Mobile Life Center
+MobileLife Sweden,Mobile Life Center
 Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),Mohamed bin Zayed University of Artificial Intelligence
 Faculty of Information Technology Monash University,Monash University
 Monash University Australia,Monash University
@@ -781,6 +788,7 @@ OFFIS Institute for Informatik,OFFIS - Institute for IT
 OFFIS – Institute for IT,OFFIS - Institute for IT
 OFFIS – Institute for Information Technology,OFFIS - Institute for IT
 Department of Computer Science Old Dominion University,Old Dominion University
+Franklin W. Olin College of Engineering,Olin College of Engineering
 University of Ontario Institute of Technology,Ontario Tech University
 University of Ontario Institute of Technology (UOIT),Ontario Tech University
 Universitat Oberta de Catalunya,Open University of Catalonia
@@ -844,7 +852,8 @@ Aachen,RWTH Aachen University
 Aachen University,RWTH Aachen University
 "HUMTEC, RWTH Aachen University",RWTH Aachen University
 RWTH Aachen,RWTH Aachen University
-Radboud Universiteit Nijmegen,Radboud University Nijmegen
+Radboud Universiteit Nijmegen,Radboud University
+Radboud University Nijmegen,Radboud University
 "Rakuten Institute of Technology, Rakuten",Rakuten Institute of Technology
 IDC Herzliya,Reichman University
 Interdisciplinary Center Herzliya,Reichman University
@@ -862,6 +871,7 @@ Hochschule RheinMain,RheinMain University of Applied Sciences
 Riso Danish National Laboratory,Risø DTU National Laboratory for Sustainable Energy
 Bosch,Robert Bosch GmbH
 "Robert Bosch GmbH, Stuttgart",Robert Bosch GmbH
+RAI Institute,Robotics and AI Institute
 Rochesster Institute of Technology,Rochester Institute of Technology
 Rochester Institute of Technnology,Rochester Institute of Technology
 "Rochester Institute of Technnology, Rochester",Rochester Institute of Technology
@@ -981,6 +991,7 @@ Denmark Technical University,Technical University of Denmark
 Center for Research on Education and School Development TU Dortmund,Technical University of Dortmund
 TU Dortmund,Technical University of Dortmund
 TU München,Technical University of Munich
+TUM Center for Education Technologies,Technical University of Munich
 Technische Universität München,Technical University of Munich
 Universitat Politècnica de València,Technical University of Valencia
 Israel Institute of Technology,Technion – Israel Institute of Technology
@@ -1019,6 +1030,7 @@ Hong Kong Polytechnic University,The Hong Kong Polytechnic University
 "School of Design, The Hong Kong Polytechnic University",The Hong Kong Polytechnic University
 Miraikan - The National Museum of Emerging Science and Innovation,The National Museum of Emerging Science and Innovation (Miraikan)
 Open University,The Open University
+Robert Gordon University,The Robert Gordon University
 Edinburgh University,The University of Edinburgh
 University of Edinburgh,The University of Edinburgh
 Disney,The Walt Disney Company
@@ -1080,6 +1092,7 @@ USL,University College London
 University College of London,University College London
 University of College London,University College London
 "University Hospital Salzburg (SALK), Salzburg",University Hospitals Salzburg
+"University at Buffalo, SUNY",University at Buffalo
 University of Buffalo,University at Buffalo
 "University of Aberdeen, Aberdeen",University of Aberdeen
 "University of Alberta, Edmonton",University of Alberta
@@ -1258,6 +1271,7 @@ IST – U. Lisboa,University of Lisbon
 "ITI/LARSyS, IST – U. Lisbon",University of Lisbon
 "ITI/LARSyS, University of Lisbon",University of Lisbon
 "Instituto Superior Técnico, University of Lisbon",University of Lisbon
+"LASIGE, Faculdade de Ciências, Universidade de Lisboa",University of Lisbon
 "LaSIGE & University of Lisboa, Campo-Grande",University of Lisbon
 LaSIGE - Faculdade de Ciências da Universidade de Lisboa,University of Lisbon
 ULisboa,University of Lisbon
@@ -1472,6 +1486,7 @@ ICALL Research Group University of Tuebingen,University of Tübingen
 "HCI Lab, University of Udine",University of Udine
 "University of Udine, Udine",University of Udine
 Universiy of Udine,University of Udine
+Universität Wien,University of Vienna
 University of Virginia (SSO),University of Virginia
 The University of Waikato,University of Waikato
 "University of Waikato, Hamilton",University of Waikato

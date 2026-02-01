@@ -8,6 +8,7 @@ Academia Sinica,Q337266,TWN
 Adobe,Q11463,USA
 "Agency for Science, Technology and Research",Q1101188,SGP
 "Airbnb, Inc.",Q63327,USA
+Aix-Marseille University,Q2302586,FRA
 Ajou University,Q491082,KOR
 Allen Institute for AI,Q16002567,USA
 Amazon,Q3884,USA
@@ -100,6 +101,7 @@ Colorado State University,Q1111640,USA
 Columbia University,Q49088,USA
 Commonwealth Scientific and Industrial Research Organisation,Q1117048,AUS
 Communication University of China,Q1765168,CHN
+Computing Research Association,Q5157638,USA
 Concordia University,Q326342,CAN
 Consiglio Nazionale delle Ricerche,Q902464,ITA
 Copenhagen Business School,Q703620,DNK
@@ -145,6 +147,7 @@ FORTH Institute of Computer Science,Q107519722,GRC
 FX Palo Alto Laboratory,Q5427408,USA
 FZI Research Center for Information Technology,Q1276279,DEU
 Facebook,Q355,USA
+Falmouth University,Q5432602,GBR
 Federal Rural University of Pernambuco,Q7894368,BRA
 Federal University of Lavras,Q10387826,BRA
 Federal University of Para,Q4558480,BRA
@@ -199,6 +202,7 @@ Handong Global University,Q623604,KOR
 Hangzhou Dianzi University,Q11102606,CHN
 Hanyang University,Q40006,KOR
 Harvard University,Q13371,USA
+Harvey Mudd College,Q1223617,USA
 Hasselt University,Q1781858,BEL
 Hasso-Plattner-Institut,Q884105,DEU
 Hebrew University of Jerusalem,Q174158,ISR
@@ -347,6 +351,7 @@ National Cheng Kung University,Q706708,TWN
 National Chengchi University,Q712849,TWN
 National Chiao Tung University,Q43401,TWN
 National Chung Cheng University,Q697299,TWN
+National Conservatory of Arts and Crafts,Q524289,FRA
 National Institute for Research & Development in Informatics,Q12730482,ROU
 National Institute of Advanced Industrial Science and Technology,Q1076542,JPN
 National Institute of Design,Q2121215,IND
@@ -385,6 +390,7 @@ OFFIS - Institute for IT,Q2007462,DEU
 Ochanomizu University,Q1152391,JPN
 Ohio State University,Q309331,USA
 Old Dominion University,Q1474100,USA
+Olin College of Engineering,Q5492094,USA
 Olivetti Research Laboratory,,GBR
 Ontario Tech University,Q2495899,CAN
 Open University of Catalonia,Q3042433,ESP
@@ -440,9 +446,11 @@ RheinMain University of Applied Sciences,Q542415,DEU
 Rice University,Q842909,USA
 Risø DTU National Laboratory for Sustainable Energy,Q2118480,DNK
 Robert Bosch GmbH,Q234021,DEU
+Robotics and AI Institute,Q137409155,USA
 Rochester Institute of Technology,Q2140778,USA
 Roskilde University,Q1542386,DNK
 Rotterdam University,Q7370670,NLD
+Royal College of Art,Q1753535,GBR
 "Royal Holloway, University of London",Q1202039,GBR
 Royal Melbourne Institute of Technology,Q1057890,AUS
 Ruhr University Bochum,Q309948,DEU
@@ -532,6 +540,7 @@ The Australian National University,Q127990,AUS
 The Hong Kong Polytechnic University,Q1187271,HKG
 The National Museum of Emerging Science and Innovation (Miraikan),Q656957,JPN
 The Open University,Q2413375,GBR
+The Robert Gordon University,Q1788342,GBR
 The University of Edinburgh,Q160302,GBR
 The Walt Disney Company,Q7414,USA
 Tilburg University,Q595668,NLD

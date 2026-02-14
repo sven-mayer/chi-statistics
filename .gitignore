@@ -1,3 +1,5 @@
+tmp/
+export/
 data-proceedings/authors.csv
 data-proceedings-raw/
 data-program-committee-raw/

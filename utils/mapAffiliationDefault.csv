@@ -55,6 +55,7 @@ Bonn-Rhein-Sieg University of Applied Sciences,Q1622083,DEU
 Boston College,Q49118,USA
 Boston University,Q49110,USA
 Bournemouth University,Q3182943,GBR
+Bremen University of Applied Sciences,Q1622092,DEU
 Brigham Young University,Q332498,USA
 Brown University,Q49114,USA
 Brunel University London,Q932411,GBR
@@ -89,9 +90,11 @@ Chemnitz University of Technology,Q159630,DEU
 Chiba Institute of Technology,Q1071738,JPN
 Chinese Academy of Sciences,Q530471,CHN
 Chonnam National University,Q494681,KOR
+Chulalongkorn University,Q855730,THA
 Chung-Ang University,Q41790,KOR
 City University of Hong Kong,Q787360,HKG
 City University of New York,Q762266,USA
+City of Scientific Research and Technological Applications,Q12241787,EGY
 "City, University of London",Q1094046,GBR
 Clark University,Q1095773,USA
 Clausthal University of Technology,Q447354,DEU
@@ -112,6 +115,7 @@ Cornell Tech,Q5171546,USA
 Cornell University,Q49115,USA
 Coventry University,Q1138080,GBR
 Cyprus University of Technology,Q1518320,CYP
+Czech Technical University in Prague,Q1329478,CZE
 Daegu Gyeongbuk Institute of Science and Technology,Q12591209,KOR
 Dalhousie University,Q579321,CAN
 Dartmouth College,Q49116,USA
@@ -225,6 +229,7 @@ Hokkaido University,Q1057199,JPN
 Honda,Q9584,JPN
 Hong Kong University of Science and Technology,Q1333303,HKG
 Hong Kong University of Science and Technology (Guangzhou),Q99229082,HKG
+Hongik University,Q491511,KOR
 Howard University,Q1068752,USA
 Huawei,Q160120,CHN
 Humber Polytechnic,Q5939790,CAN
@@ -235,6 +240,7 @@ IRIT Computer Science Research Institute of Toulouse,Q3152088,FRA
 IT University of Copenhagen,Q124882,DNK
 ITU - Interdisciplinary Transformation University Austria,Q115669377,AUT
 Idiap Research Institute,Q3152074,CHE
+Illinois Institute of Technology,Q659706,USA
 Illinois State University,Q558922,USA
 Imperial College London,Q189022,GBR
 Indian Institute Of Technology Goa,Q24884248,IND
@@ -356,6 +362,7 @@ Motorola,Q259011,USA
 Münster University of Applied Sciences,Q554425,DEU
 NOVA University Lisbon,Q1979891,PRT
 NTT Communication Science Laboratories,Q39903273,JPN
+Nagoya Institute of Technology,Q1149777,JPN
 Namibia University of Science and Technology,Q488696,NAM
 Nanjing University,Q683580,CHN
 Nanjing University of Information Science and Technology,Q6963692,CHN
@@ -390,6 +397,7 @@ New Mexico State University,Q1353248,USA
 New York Institute of Technology,Q1709596,USA
 New York University,Q49210,USA
 Newcastle University,Q837164,GBR
+Nihon University,Q1326230,JPN
 Nokia,Q1418,FIN
 Nordea,Q1123823,FIN
 Nortel,Q464996,FIN
@@ -501,6 +509,7 @@ ShanghaiTech University,Q3817847,CHN
 Sheffield Hallam University,Q1752117,GBR
 Shenzhen University,Q1945756,CHN
 Shibaura Institute of Technology,Q4614615,JPN
+Shizuoka University,Q1151045,JPN
 Sichuan University,Q2281517,CHN
 Siemens,Q81230,DEU
 Simon Fraser University,Q201603,CAN
@@ -578,6 +587,7 @@ Tongji University,Q16947,CHN
 Tor Vergata University of Rome,Q1031803,ITA
 Toronto Metropolitan University,Q611723,CAN
 Toulouse III University - Paul-Sabatier,Q1273188,FRA
+Towson University,Q1474129,USA
 Toyota,Q24874330,JPN
 Trinity College Dublin,Q258464,IRL
 Tsinghua University,Q16955,CHN
@@ -615,6 +625,9 @@ University of Athens,Q547867,GRC
 University of Auckland,Q492467,NZL
 University of Augsburg,Q616905,DEU
 University of Aveiro,Q29671,PRT
+University of Baltimore,Q7895109,USA
+University of Bamberg,Q707272,DEU
+University of Barcelona,Q219615,ESP
 University of Bari,Q1236136,ITA
 University of Basel,Q372608,CHE
 University of Bath,Q1422458,GBR
@@ -734,6 +747,7 @@ University of Minnesota,Q238101,USA
 University of Minnesota Duluth,Q2495874,USA
 University of Moratuwa,Q3523254,LKA
 University of Münster,Q168426,DEU
+University of Namibia,Q220226,NAM
 University of Namur,Q1391755,BEL
 University of Nebraska Omaha,Q2495890,USA
 University of Neuchâtel,Q541548,CHE
